@@ -9,3 +9,4 @@ git commit -m"hi"
 git reset --soft head~1  #to reset commit 
 git push origin master
 git clone <link from git hub>
+refresh
